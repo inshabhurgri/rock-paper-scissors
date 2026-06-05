@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+    background: #f4f4f4;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.buttons button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    background: #333;
+    color: white;
+    transition: 0.2s;
+}
+
+.buttons button:hover {
+    background: #555;
+}
+
+h2 {
+    margin-top: 30px;
+    color: #333;
+}
+
+h3 {
+    margin-top: 20px;
+}
